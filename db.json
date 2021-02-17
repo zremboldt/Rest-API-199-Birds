@@ -6,7 +6,7 @@
       "biome": "Gardens & meadows",
       "videoId": "Za9kK1IFX88",
       "favorite": false,
-      "image": "images/magpie.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/magpie.jpg"
     },
     {
       "id": 1,
@@ -14,7 +14,7 @@
       "biome": "Gardens & meadows",
       "videoId": "qpg9noRrQek",
       "favorite": false,
-      "image": "images/chaffinch.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/chaffinch.jpg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "biome": "Gardens & meadows",
       "videoId": "AWet9qFT15M",
       "favorite": false,
-      "image": "images/wood-pigeon.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/wood-pigeon.jpg"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "biome": "Gardens & meadows",
       "videoId": "Wpu4mkzSh6A",
       "favorite": false,
-      "image": "images/yellowhammer.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/yellowhammer.jpg"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "biome": "Gardens & meadows",
       "videoId": "wrCdLXqBMOk",
       "favorite": false,
-      "image": "images/bullfinch.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bullfinch.jpg"
     },
     {
       "id": 5,
@@ -46,7 +46,7 @@
       "biome": "Gardens & meadows",
       "videoId": "IvmVzZ3mjOE",
       "favorite": false,
-      "image": "images/wren.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/wren.jpg"
     },
     {
       "id": 6,
@@ -54,7 +54,7 @@
       "biome": "Gardens & meadows",
       "videoId": "PkOnpk8Wmow",
       "favorite": false,
-      "image": "images/sparrow.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/sparrow.jpg"
     },
     {
       "id": 7,
@@ -62,7 +62,7 @@
       "biome": "Gardens & meadows",
       "videoId": "seXURXJr0CY",
       "favorite": false,
-      "image": "images/bluetit.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bluetit.jpg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "biome": "Gardens & meadows",
       "videoId": "Tx8rJJfZ5Ak",
       "favorite": false,
-      "image": "images/long-tailed-tit.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/long-tailed-tit.jpg"
     },
     {
       "id": 9,
@@ -78,7 +78,7 @@
       "biome": "Gardens & meadows",
       "videoId": "Tub7-_dLP7E",
       "favorite": false,
-      "image": "images/whitethroat.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/whitethroat.jpg"
     },
     {
       "id": 10,
@@ -86,7 +86,7 @@
       "biome": "Gardens & meadows",
       "videoId": "tVHuZ5ng3Gc",
       "favorite": false,
-      "image": "images/european-greenfinch.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-greenfinch.jpg"
     },
     {
       "id": 11,
@@ -94,7 +94,7 @@
       "biome": "Gardens & meadows",
       "videoId": "SVNilOwikJ8",
       "favorite": true,
-      "image": "images/european-robin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-robin.jpg"
     },
     {
       "id": 12,
@@ -102,7 +102,7 @@
       "biome": "Gardens & meadows",
       "videoId": "vlJUsAl4YCA",
       "favorite": false,
-      "image": "images/junco.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/junco.jpg"
     },
     {
       "id": 13,
@@ -110,7 +110,7 @@
       "biome": "Gardens & meadows",
       "videoId": "V4f_1_r80RY",
       "favorite": true,
-      "image": "images/starling.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/starling.jpg"
     },
     {
       "id": 14,
@@ -118,7 +118,7 @@
       "biome": "Gardens & meadows",
       "videoId": "3Km-jtXueTw",
       "favorite": false,
-      "image": "images/collared-dove.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/collared-dove.jpg"
     },
     {
       "id": 15,
@@ -126,7 +126,7 @@
       "biome": "Gardens & meadows",
       "videoId": "DnClUsa1i_E",
       "favorite": false,
-      "image": "images/blackbird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blackbird.jpg"
     },
     {
       "id": 16,
@@ -134,7 +134,7 @@
       "biome": "Rivers & lakes",
       "videoId": "MB3aZAoiPIg",
       "favorite": false,
-      "image": "images/eurasian-wigeon.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/eurasian-wigeon.jpg"
     },
     {
       "id": 17,
@@ -142,7 +142,7 @@
       "biome": "Rivers & lakes",
       "videoId": "XtDu3dMsvXA",
       "favorite": false,
-      "image": "images/mandarin-duck.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/mandarin-duck.jpg"
     },
     {
       "id": 18,
@@ -150,7 +150,7 @@
       "biome": "Rivers & lakes",
       "videoId": "BtC-QorasAc",
       "favorite": false,
-      "image": "images/moorhen.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/moorhen.jpg"
     },
     {
       "id": 19,
@@ -158,7 +158,7 @@
       "biome": "Rivers & lakes",
       "videoId": "ze1uzC7h8UE",
       "favorite": true,
-      "image": "images/bittern.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bittern.jpg"
     },
     {
       "id": 20,
@@ -166,7 +166,7 @@
       "biome": "Rivers & lakes",
       "videoId": "QLV_K7DVeyU",
       "favorite": true,
-      "image": "images/flamingo.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/flamingo.jpg"
     },
     {
       "id": 21,
@@ -174,7 +174,7 @@
       "biome": "Rivers & lakes",
       "videoId": "veQ2ilQrzMU",
       "favorite": true,
-      "image": "images/malachite-kingfisher.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/malachite-kingfisher.jpg"
     },
     {
       "id": 22,
@@ -182,7 +182,7 @@
       "biome": "Rivers & lakes",
       "videoId": "gKU42FkOd2o",
       "favorite": false,
-      "image": "images/pintail.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/pintail.jpg"
     },
     {
       "id": 23,
@@ -190,7 +190,7 @@
       "biome": "Rivers & lakes",
       "videoId": "bklSltY2XXc",
       "favorite": false,
-      "image": "images/painted-stork.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/painted-stork.jpg"
     },
     {
       "id": 24,
@@ -198,7 +198,7 @@
       "biome": "Rivers & lakes",
       "videoId": "C91s-TQlCPM",
       "favorite": false,
-      "image": "images/mallard-duck.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/mallard-duck.jpg"
     },
     {
       "id": 25,
@@ -206,7 +206,7 @@
       "biome": "Rivers & lakes",
       "videoId": "3zzJp9MQb3c",
       "favorite": false,
-      "image": "images/eurasian-kingfisher.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/eurasian-kingfisher.jpg"
     },
     {
       "id": 26,
@@ -214,7 +214,7 @@
       "biome": "Rivers & lakes",
       "videoId": "TTGpMSXKE8A",
       "favorite": false,
-      "image": "images/mute-swan.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/mute-swan.jpg"
     },
     {
       "id": 27,
@@ -222,7 +222,7 @@
       "biome": "Rivers & lakes",
       "videoId": "_c24Tqx8SyQ",
       "favorite": false,
-      "image": "images/heron.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/heron.jpg"
     },
     {
       "id": 28,
@@ -230,7 +230,7 @@
       "biome": "Rivers & lakes",
       "videoId": "sIbMh-VEPrg",
       "favorite": false,
-      "image": "images/tufted-duck.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/tufted-duck.jpg"
     },
     {
       "id": 29,
@@ -238,7 +238,7 @@
       "biome": "Rivers & lakes",
       "videoId": "ZbRrxw-H6xA",
       "favorite": false,
-      "image": "images/grebe.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/grebe.jpg"
     },
     {
       "id": 30,
@@ -246,7 +246,7 @@
       "biome": "Sea birds",
       "videoId": "QAHawigrH9w",
       "favorite": false,
-      "image": "images/crested-auklet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/crested-auklet.jpg"
     },
     {
       "id": 31,
@@ -254,7 +254,7 @@
       "biome": "Sea birds",
       "videoId": "6wrvr7MwCWA",
       "favorite": false,
-      "image": "images/ring-billed-gull.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/ring-billed-gull.jpg"
     },
     {
       "id": 32,
@@ -262,7 +262,7 @@
       "biome": "Sea birds",
       "videoId": "V4Oh3ZgST38",
       "favorite": false,
-      "image": "images/rhinoceros-auklet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/rhinoceros-auklet.jpg"
     },
     {
       "id": 33,
@@ -270,7 +270,7 @@
       "biome": "Sea birds",
       "videoId": "2IGzDdDSkdA",
       "favorite": false,
-      "image": "images/pigeon-guillemot.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/pigeon-guillemot.jpg"
     },
     {
       "id": 34,
@@ -278,7 +278,7 @@
       "biome": "Sea birds",
       "videoId": "UyC95DUDMqc",
       "favorite": false,
-      "image": "images/cormorant.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cormorant.jpg"
     },
     {
       "id": 35,
@@ -286,7 +286,7 @@
       "biome": "Sea birds",
       "videoId": "wv0ukHz1WUk",
       "favorite": false,
-      "image": "images/oystercatcher.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/oystercatcher.jpg"
     },
     {
       "id": 36,
@@ -294,7 +294,7 @@
       "biome": "Sea birds",
       "videoId": "Mf7qfg0ljfo",
       "favorite": false,
-      "image": "images/red-throated-diver.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/red-throated-diver.jpg"
     },
     {
       "id": 37,
@@ -302,7 +302,7 @@
       "biome": "Sea birds",
       "videoId": "8vQAQLnwZl8",
       "favorite": false,
-      "image": "images/tufted-puffin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/tufted-puffin.jpg"
     },
     {
       "id": 38,
@@ -310,7 +310,7 @@
       "biome": "Sea birds",
       "videoId": "ruRUsa3Ls34",
       "favorite": false,
-      "image": "images/common-tern.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/common-tern.jpg"
     },
     {
       "id": 39,
@@ -318,7 +318,7 @@
       "biome": "Sea birds",
       "videoId": "U7CSWlNO9c4",
       "favorite": false,
-      "image": "images/loon.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/loon.jpg"
     },
     {
       "id": 40,
@@ -326,7 +326,7 @@
       "biome": "Sea birds",
       "videoId": "z922by9_6Fw",
       "favorite": false,
-      "image": "images/blue-footed-booby.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blue-footed-booby.jpg"
     },
     {
       "id": 41,
@@ -334,7 +334,7 @@
       "biome": "Sea birds",
       "videoId": "BfEboMmwAMw",
       "favorite": false,
-      "image": "images/pelican.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/pelican.jpg"
     },
     {
       "id": 42,
@@ -342,7 +342,7 @@
       "biome": "Sea birds",
       "videoId": "Eqtx4e5CV-g",
       "favorite": false,
-      "image": "images/european-herring-gull.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-herring-gull.jpg"
     },
     {
       "id": 43,
@@ -350,7 +350,7 @@
       "biome": "Sea birds",
       "videoId": "zTOUcBPKRIQ",
       "favorite": false,
-      "image": "images/horned-puffin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/horned-puffin.jpg"
     },
     {
       "id": 44,
@@ -358,7 +358,7 @@
       "biome": "Sea birds",
       "videoId": "hdKky3o6Gig",
       "favorite": false,
-      "image": "images/thick-billed-murre.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/thick-billed-murre.jpg"
     },
     {
       "id": 45,
@@ -366,7 +366,7 @@
       "biome": "Sea birds",
       "videoId": "7LuHNiC7fms",
       "favorite": false,
-      "image": "images/razorbill.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/razorbill.jpg"
     },
     {
       "id": 46,
@@ -374,7 +374,7 @@
       "biome": "Sea birds",
       "videoId": "qESQK07mOWg",
       "favorite": false,
-      "image": "images/cassins-auklet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cassins-auklet.jpg"
     },
     {
       "id": 47,
@@ -382,7 +382,7 @@
       "biome": "Sea birds",
       "videoId": "7eClNZa8-Jw",
       "favorite": false,
-      "image": "images/black-guillemot.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/black-guillemot.jpg"
     },
     {
       "id": 48,
@@ -390,7 +390,7 @@
       "biome": "Sea birds",
       "videoId": "GcGe3iFQYhM",
       "favorite": false,
-      "image": "images/shelduck.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/shelduck.jpg"
     },
     {
       "id": 49,
@@ -398,7 +398,7 @@
       "biome": "Sea birds",
       "videoId": "fWDWcIPWBkk",
       "favorite": false,
-      "image": "images/least-auklet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/least-auklet.jpg"
     },
     {
       "id": 50,
@@ -406,7 +406,7 @@
       "biome": "Sea birds",
       "videoId": "6CL6NunnYkI",
       "favorite": false,
-      "image": "images/great-black-backed-gull.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/great-black-backed-gull.jpg"
     },
     {
       "id": 51,
@@ -414,7 +414,7 @@
       "biome": "Sea birds",
       "videoId": "EwPrXOtBoVg",
       "favorite": true,
-      "image": "images/gannet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gannet.jpg"
     },
     {
       "id": 52,
@@ -422,7 +422,7 @@
       "biome": "Desert birds",
       "videoId": "04CwRLMwmEc",
       "favorite": false,
-      "image": "images/broad-billed-hummingbird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/broad-billed-hummingbird.jpg"
     },
     {
       "id": 53,
@@ -430,7 +430,7 @@
       "biome": "Desert birds",
       "videoId": "qSzk0nBS5Zc",
       "favorite": false,
-      "image": "images/gilded-flicker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gilded-flicker.jpg"
     },
     {
       "id": 54,
@@ -438,7 +438,7 @@
       "biome": "Desert birds",
       "videoId": "h5MbKpNi3oY",
       "favorite": false,
-      "image": "images/elf-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/elf-owl.jpg"
     },
     {
       "id": 55,
@@ -446,7 +446,7 @@
       "biome": "Desert birds",
       "videoId": "fcL47Kiyuj0",
       "favorite": true,
-      "image": "images/cactus-pygmy-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cactus-pygmy-owl.jpg"
     },
     {
       "id": 56,
@@ -454,7 +454,7 @@
       "biome": "Desert birds",
       "videoId": "U7nzSs3OBbg",
       "favorite": false,
-      "image": "images/roadrunner.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/roadrunner.jpg"
     },
     {
       "id": 57,
@@ -462,7 +462,7 @@
       "biome": "Desert birds",
       "videoId": "Lzf0y84PbS4",
       "favorite": false,
-      "image": "images/gambels-quail.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gambels-quail.jpg"
     },
     {
       "id": 58,
@@ -470,7 +470,7 @@
       "biome": "Australian birds",
       "videoId": "602FT4hDJPE",
       "favorite": false,
-      "image": "images/noisy-miner.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/noisy-miner.jpg"
     },
     {
       "id": 59,
@@ -478,7 +478,7 @@
       "biome": "Australian birds",
       "videoId": "TZ9RyWz__6s",
       "favorite": false,
-      "image": "images/kookaburra.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/kookaburra.jpg"
     },
     {
       "id": 60,
@@ -486,7 +486,7 @@
       "biome": "Australian birds",
       "videoId": "Aaq0Ynd8mjY",
       "favorite": true,
-      "image": "images/emu.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/emu.jpg"
     },
     {
       "id": 61,
@@ -494,7 +494,7 @@
       "biome": "Australian birds",
       "videoId": "8ZDwuTag61w",
       "favorite": false,
-      "image": "images/fruit-dove.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/fruit-dove.jpg"
     },
     {
       "id": 62,
@@ -502,7 +502,7 @@
       "biome": "Australian birds",
       "videoId": "lb8UZ2bFyrI",
       "favorite": false,
-      "image": "images/magpie-goose.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/magpie-goose.jpg"
     },
     {
       "id": 63,
@@ -510,7 +510,7 @@
       "biome": "Australian birds",
       "videoId": "DH6NPcwxQqM",
       "favorite": true,
-      "image": "images/galah.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/galah.jpg"
     },
     {
       "id": 64,
@@ -518,7 +518,7 @@
       "biome": "Savanna birds",
       "videoId": "v4npWdf_hng",
       "favorite": false,
-      "image": "images/helmeted-guineafowl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/helmeted-guineafowl.jpg"
     },
     {
       "id": 65,
@@ -526,7 +526,7 @@
       "biome": "Savanna birds",
       "videoId": "LqhDAnYdv2o",
       "favorite": true,
-      "image": "images/saddle-billed-stork.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/saddle-billed-stork.jpg"
     },
     {
       "id": 66,
@@ -534,7 +534,7 @@
       "biome": "Savanna birds",
       "videoId": "rXpFPUSjbEM",
       "favorite": false,
-      "image": "images/wattled-crane.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/wattled-crane.jpg"
     },
     {
       "id": 67,
@@ -542,7 +542,7 @@
       "biome": "Savanna birds",
       "videoId": "L_RBOZ5hwiw",
       "favorite": false,
-      "image": "images/red-billed-hornbill.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/red-billed-hornbill.jpg"
     },
     {
       "id": 68,
@@ -550,7 +550,7 @@
       "biome": "Savanna birds",
       "videoId": "jgnsGkNiUO0",
       "favorite": false,
-      "image": "images/brown-quail.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/brown-quail.jpg"
     },
     {
       "id": 69,
@@ -558,7 +558,7 @@
       "biome": "Savanna birds",
       "videoId": "EcoxUSnC_7U",
       "favorite": false,
-      "image": "images/vulturine-guineafowl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/vulturine-guineafowl.jpg"
     },
     {
       "id": 70,
@@ -566,7 +566,7 @@
       "biome": "Savanna birds",
       "videoId": "OBRppKPXKuU",
       "favorite": false,
-      "image": "images/ostrich.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/ostrich.jpg"
     },
     {
       "id": 71,
@@ -574,7 +574,7 @@
       "biome": "Savanna birds",
       "videoId": "Pn5ABdswPns",
       "favorite": false,
-      "image": "images/motmot.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/motmot.jpg"
     },
     {
       "id": 72,
@@ -582,7 +582,7 @@
       "biome": "Savanna birds",
       "videoId": "kQRzIxgmnag",
       "favorite": false,
-      "image": "images/egyptian-goose.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/egyptian-goose.jpg"
     },
     {
       "id": 73,
@@ -590,7 +590,7 @@
       "biome": "Savanna birds",
       "videoId": "7itwHJiNRz4",
       "favorite": true,
-      "image": "images/secretary-bird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/secretary-bird.jpg"
     },
     {
       "id": 74,
@@ -598,7 +598,7 @@
       "biome": "Savanna birds",
       "videoId": "yLXCcAMivMc",
       "favorite": false,
-      "image": "images/short-eared-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/short-eared-owl.jpg"
     },
     {
       "id": 75,
@@ -606,7 +606,7 @@
       "biome": "Savanna birds",
       "videoId": "UKm_CBbNPp4",
       "favorite": false,
-      "image": "images/blue-winged-parrotlet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blue-winged-parrotlet.jpg"
     },
     {
       "id": 76,
@@ -614,7 +614,7 @@
       "biome": "Savanna birds",
       "videoId": "qFxkGSAc3r8",
       "favorite": true,
-      "image": "images/lilac-breasted-roller.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/lilac-breasted-roller.jpg"
     },
     {
       "id": 77,
@@ -622,7 +622,7 @@
       "biome": "Savanna birds",
       "videoId": "dxfIKcE4bz0",
       "favorite": false,
-      "image": "images/european-roller.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-roller.jpg"
     },
     {
       "id": 78,
@@ -630,7 +630,7 @@
       "biome": "Ice & snow",
       "videoId": "1l4NWiIcMRU",
       "favorite": false,
-      "image": "images/buzzard.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/buzzard.jpg"
     },
     {
       "id": 79,
@@ -638,7 +638,7 @@
       "biome": "Ice & snow",
       "videoId": "vu5uVaepTn0",
       "favorite": false,
-      "image": "images/atlantic-puffin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/atlantic-puffin.jpg"
     },
     {
       "id": 80,
@@ -646,7 +646,7 @@
       "biome": "Ice & snow",
       "videoId": "LwwVnUekpeE",
       "favorite": true,
-      "image": "images/albatross.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/albatross.jpg"
     },
     {
       "id": 81,
@@ -654,7 +654,7 @@
       "biome": "Ice & snow",
       "videoId": "vCFO3ojMqMU",
       "favorite": false,
-      "image": "images/blue-eyed-shag.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blue-eyed-shag.jpg"
     },
     {
       "id": 82,
@@ -662,7 +662,7 @@
       "biome": "Ice & snow",
       "videoId": "fleP9XxJFPY",
       "favorite": false,
-      "image": "images/fulmar.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/fulmar.jpg"
     },
     {
       "id": 83,
@@ -670,7 +670,7 @@
       "biome": "Ice & snow",
       "videoId": "Uf5IQiLOQK0",
       "favorite": false,
-      "image": "images/snowy-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/snowy-owl.jpg"
     },
     {
       "id": 84,
@@ -678,7 +678,7 @@
       "biome": "Ice & snow",
       "videoId": "u69bPBUY-yg",
       "favorite": false,
-      "image": "images/arctic-tern.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/arctic-tern.jpg"
     },
     {
       "id": 85,
@@ -686,7 +686,7 @@
       "biome": "Ice & snow",
       "videoId": "wwD9-4vN8rw",
       "favorite": false,
-      "image": "images/eider.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/eider.jpg"
     },
     {
       "id": 86,
@@ -694,7 +694,7 @@
       "biome": "Ice & snow",
       "videoId": "E21g9MEPF8Y",
       "favorite": false,
-      "image": "images/arctic-redpoll.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/arctic-redpoll.jpg"
     },
     {
       "id": 87,
@@ -702,7 +702,7 @@
       "biome": "Ice & snow",
       "videoId": "PNevWH71AgY",
       "favorite": false,
-      "image": "images/snow-petrel.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/snow-petrel.jpg"
     },
     {
       "id": 88,
@@ -710,7 +710,7 @@
       "biome": "Ice & snow",
       "videoId": "Z7PlUGbsXlQ",
       "favorite": false,
-      "image": "images/giant-petrel.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/giant-petrel.jpg"
     },
     {
       "id": 89,
@@ -718,7 +718,7 @@
       "biome": "Ice & snow",
       "videoId": "9vdBNthN2LM",
       "favorite": false,
-      "image": "images/little-auk.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/little-auk.jpg"
     },
     {
       "id": 90,
@@ -726,7 +726,7 @@
       "biome": "Ice & snow",
       "videoId": "8cF2JMDSh-U",
       "favorite": false,
-      "image": "images/ptarmigan.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/ptarmigan.jpg"
     },
     {
       "id": 91,
@@ -734,7 +734,7 @@
       "biome": "Ice & snow",
       "videoId": "elIxxCyyhXo",
       "favorite": false,
-      "image": "images/magellanic-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/magellanic-penguin.jpg"
     },
     {
       "id": 92,
@@ -742,7 +742,7 @@
       "biome": "Ice & snow",
       "videoId": "cZvfN4AAolI",
       "favorite": true,
-      "image": "images/gentoo-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gentoo-penguin.jpg"
     },
     {
       "id": 93,
@@ -750,7 +750,7 @@
       "biome": "Ice & snow",
       "videoId": "r1_8rRDHtQ8",
       "favorite": true,
-      "image": "images/king-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/king-penguin.jpg"
     },
     {
       "id": 94,
@@ -758,7 +758,7 @@
       "biome": "Ice & snow",
       "videoId": "Z-bxsuS88n4",
       "favorite": true,
-      "image": "images/adelie-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/adelie-penguin.jpg"
     },
     {
       "id": 95,
@@ -766,7 +766,7 @@
       "biome": "Ice & snow",
       "videoId": "6LBOPRwWrhY",
       "favorite": false,
-      "image": "images/macaroni-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/macaroni-penguin.jpg"
     },
     {
       "id": 96,
@@ -774,7 +774,7 @@
       "biome": "Ice & snow",
       "videoId": "_sPK92Oddig",
       "favorite": false,
-      "image": "images/snares-crested-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/snares-crested-penguin.jpg"
     },
     {
       "id": 97,
@@ -782,7 +782,7 @@
       "biome": "Ice & snow",
       "videoId": "vYHWbI46Q5I",
       "favorite": false,
-      "image": "images/african-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/african-penguin.jpg"
     },
     {
       "id": 98,
@@ -790,7 +790,7 @@
       "biome": "Ice & snow",
       "videoId": "QLFqdRRqjrs",
       "favorite": false,
-      "image": "images/emperor-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/emperor-penguin.jpg"
     },
     {
       "id": 99,
@@ -798,7 +798,7 @@
       "biome": "Ice & snow",
       "videoId": "oaQWwhG2sz4",
       "favorite": false,
-      "image": "images/little-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/little-penguin.jpg"
     },
     {
       "id": 100,
@@ -806,7 +806,7 @@
       "biome": "Ice & snow",
       "videoId": "FwPdmK2EYEk",
       "favorite": false,
-      "image": "images/rockhopper-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/rockhopper-penguin.jpg"
     },
     {
       "id": 101,
@@ -814,7 +814,7 @@
       "biome": "Ice & snow",
       "videoId": "jIG5ech3P2Y",
       "favorite": false,
-      "image": "images/chinstrap-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/chinstrap-penguin.jpg"
     },
     {
       "id": 102,
@@ -822,7 +822,7 @@
       "biome": "Ice & snow",
       "videoId": "JYNA0-aqYZY",
       "favorite": false,
-      "image": "images/humboldt-penguin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/humboldt-penguin.jpg"
     },
     {
       "id": 103,
@@ -830,7 +830,7 @@
       "biome": "Rainforest birds",
       "videoId": "BJtacDpUJgc",
       "favorite": false,
-      "image": "images/raggiana-bird-of-paradise.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/raggiana-bird-of-paradise.jpg"
     },
     {
       "id": 104,
@@ -838,7 +838,7 @@
       "biome": "Rainforest birds",
       "videoId": "xOeNmzp_8qc",
       "favorite": true,
-      "image": "images/grey-parrot.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/grey-parrot.jpg"
     },
     {
       "id": 105,
@@ -846,7 +846,7 @@
       "biome": "Rainforest birds",
       "videoId": "avzAlOnkB7o",
       "favorite": false,
-      "image": "images/crimson-topaz-hummingbird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/crimson-topaz-hummingbird.jpg"
     },
     {
       "id": 106,
@@ -854,7 +854,7 @@
       "biome": "Rainforest birds",
       "videoId": "irzRsnc4EAQ",
       "favorite": false,
-      "image": "images/moustached-babbler.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/moustached-babbler.jpg"
     },
     {
       "id": 107,
@@ -862,7 +862,7 @@
       "biome": "Rainforest birds",
       "videoId": "dSVzkyhImK0",
       "favorite": false,
-      "image": "images/broadbill.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/broadbill.jpg"
     },
     {
       "id": 108,
@@ -870,7 +870,7 @@
       "biome": "Rainforest birds",
       "videoId": "rX40mBb8bkU",
       "favorite": true,
-      "image": "images/wilsons-bird-of-paradise.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/wilsons-bird-of-paradise.jpg"
     },
     {
       "id": 109,
@@ -878,7 +878,7 @@
       "biome": "Rainforest birds",
       "videoId": "SN9i_bLHOxk",
       "favorite": false,
-      "image": "images/quetzal.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/quetzal.jpg"
     },
     {
       "id": 110,
@@ -886,7 +886,7 @@
       "biome": "Rainforest birds",
       "videoId": "p07tOfMK03o",
       "favorite": false,
-      "image": "images/great-hornbill.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/great-hornbill.jpg"
     },
     {
       "id": 111,
@@ -894,7 +894,7 @@
       "biome": "Rainforest birds",
       "videoId": "Og0OKvMmnAc",
       "favorite": false,
-      "image": "images/harpy-eagle.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/harpy-eagle.jpg"
     },
     {
       "id": 112,
@@ -902,7 +902,7 @@
       "biome": "Rainforest birds",
       "videoId": "fNigPzEuN2A",
       "favorite": false,
-      "image": "images/hermit-hummingbird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/hermit-hummingbird.jpg"
     },
     {
       "id": 113,
@@ -910,7 +910,7 @@
       "biome": "Rainforest birds",
       "videoId": "wGiifAPW8qE",
       "favorite": false,
-      "image": "images/red-fan-parrot.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/red-fan-parrot.jpg"
     },
     {
       "id": 114,
@@ -918,7 +918,7 @@
       "biome": "Rainforest birds",
       "videoId": "gv5z8Uv9V28",
       "favorite": false,
-      "image": "images/toucan.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/toucan.jpg"
     },
     {
       "id": 115,
@@ -926,7 +926,7 @@
       "biome": "Rainforest birds",
       "videoId": "3FveQiJh1zo",
       "favorite": false,
-      "image": "images/oriental-dwarf-kingfisher.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/oriental-dwarf-kingfisher.jpg"
     },
     {
       "id": 116,
@@ -934,7 +934,7 @@
       "biome": "Rainforest birds",
       "videoId": "fJKfhoRJSFc",
       "favorite": false,
-      "image": "images/flowerpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/flowerpecker.jpg"
     },
     {
       "id": 117,
@@ -942,7 +942,7 @@
       "biome": "Rainforest birds",
       "videoId": "nIcEe2mI3X4",
       "favorite": false,
-      "image": "images/blue-and-yellow-macaw.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blue-and-yellow-macaw.jpg"
     },
     {
       "id": 118,
@@ -950,7 +950,7 @@
       "biome": "Rainforest birds",
       "videoId": "1FP-gX-Fwdw",
       "favorite": false,
-      "image": "images/hyacinth-macaw.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/hyacinth-macaw.jpg"
     },
     {
       "id": 119,
@@ -958,7 +958,7 @@
       "biome": "Rainforest birds",
       "videoId": "e1kwfDD0xmM",
       "favorite": false,
-      "image": "images/red-and-green-macaw.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/red-and-green-macaw.jpg"
     },
     {
       "id": 120,
@@ -966,7 +966,7 @@
       "biome": "Rainforest birds",
       "videoId": "EXcn6dYY3cw",
       "favorite": false,
-      "image": "images/spectacled-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/spectacled-owl.jpg"
     },
     {
       "id": 121,
@@ -974,7 +974,7 @@
       "biome": "Rainforest birds",
       "videoId": "CEQuDyuQFKE",
       "favorite": false,
-      "image": "images/white-cockatoo.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/white-cockatoo.jpg"
     },
     {
       "id": 122,
@@ -982,7 +982,7 @@
       "biome": "Rainforest birds",
       "videoId": "8bHYbmnQfyA",
       "favorite": false,
-      "image": "images/lory.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/lory.jpg"
     },
     {
       "id": 123,
@@ -990,7 +990,7 @@
       "biome": "Rainforest birds",
       "videoId": "fRneaq9JXvM",
       "favorite": false,
-      "image": "images/mealy-amazon.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/mealy-amazon.jpg"
     },
     {
       "id": 124,
@@ -998,7 +998,7 @@
       "biome": "Rainforest birds",
       "videoId": "AA2LkrR0_dw",
       "favorite": true,
-      "image": "images/cassowary.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cassowary.jpg"
     },
     {
       "id": 125,
@@ -1006,7 +1006,7 @@
       "biome": "Forest & woodlands",
       "videoId": "QBffy8t1hSg",
       "favorite": false,
-      "image": "images/green-woodpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/green-woodpecker.jpg"
     },
     {
       "id": 126,
@@ -1014,7 +1014,7 @@
       "biome": "Forest & woodlands",
       "videoId": "1NvU8WG9bg0",
       "favorite": false,
-      "image": "images/crossbill.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/crossbill.jpg"
     },
     {
       "id": 127,
@@ -1022,7 +1022,7 @@
       "biome": "Forest & woodlands",
       "videoId": "FcV-MWm3tBw",
       "favorite": false,
-      "image": "images/cuckoo.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cuckoo.jpg"
     },
     {
       "id": 128,
@@ -1030,7 +1030,7 @@
       "biome": "Forest & woodlands",
       "videoId": "hjg9ryMUIr0",
       "favorite": false,
-      "image": "images/pheasant.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/pheasant.jpg"
     },
     {
       "id": 129,
@@ -1038,7 +1038,7 @@
       "biome": "Forest & woodlands",
       "videoId": "okiUUDR1wO0",
       "favorite": false,
-      "image": "images/wood-warbler.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/wood-warbler.jpg"
     },
     {
       "id": 130,
@@ -1046,7 +1046,7 @@
       "biome": "Forest & woodlands",
       "videoId": "CxuY5c60XHw",
       "favorite": false,
-      "image": "images/blue-jay.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/blue-jay.jpg"
     },
     {
       "id": 131,
@@ -1054,7 +1054,7 @@
       "biome": "Forest & woodlands",
       "videoId": "eKedzAYpeaE",
       "favorite": false,
-      "image": "images/lewis-woodpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/lewis-woodpecker.jpg"
     },
     {
       "id": 132,
@@ -1062,7 +1062,7 @@
       "biome": "Forest & woodlands",
       "videoId": "QpzhbCGCsqg",
       "favorite": false,
-      "image": "images/long-eared-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/long-eared-owl.jpg"
     },
     {
       "id": 133,
@@ -1070,7 +1070,7 @@
       "biome": "Forest & woodlands",
       "videoId": "t_hvBnU3PP4",
       "favorite": false,
-      "image": "images/eurasian-crane.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/eurasian-crane.jpg"
     },
     {
       "id": 134,
@@ -1078,7 +1078,7 @@
       "biome": "Forest & woodlands",
       "videoId": "Knqo9OVLBvs",
       "favorite": false,
-      "image": "images/northern-goshawk.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/northern-goshawk.jpg"
     },
     {
       "id": 135,
@@ -1086,7 +1086,7 @@
       "biome": "Forest & woodlands",
       "videoId": "1tWLDhJ6mjQ",
       "favorite": false,
-      "image": "images/cardinal.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cardinal.jpg"
     },
     {
       "id": 136,
@@ -1094,7 +1094,7 @@
       "biome": "Forest & woodlands",
       "videoId": "6VsI6Psae4Y",
       "favorite": false,
-      "image": "images/tawny-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/tawny-owl.jpg"
     },
     {
       "id": 137,
@@ -1102,7 +1102,7 @@
       "biome": "Forest & woodlands",
       "videoId": "wFTm3A7HpxM",
       "favorite": false,
-      "image": "images/great-spotted-woodpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/great-spotted-woodpecker.jpg"
     },
     {
       "id": 138,
@@ -1110,7 +1110,7 @@
       "biome": "Forest & woodlands",
       "videoId": "sm8BQBf5nQw",
       "favorite": false,
-      "image": "images/black-woodpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/black-woodpecker.jpg"
     },
     {
       "id": 139,
@@ -1118,7 +1118,7 @@
       "biome": "Forest & woodlands",
       "videoId": "LeJEqtDZt7g",
       "favorite": false,
-      "image": "images/pileated-woodpecker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/pileated-woodpecker.jpg"
     },
     {
       "id": 140,
@@ -1126,7 +1126,7 @@
       "biome": "Forest & woodlands",
       "videoId": "qvEsiwnaQVc",
       "favorite": false,
-      "image": "images/grouse.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/grouse.jpg"
     },
     {
       "id": 141,
@@ -1134,7 +1134,7 @@
       "biome": "Forest & woodlands",
       "videoId": "cK1gaTqBRRk",
       "favorite": false,
-      "image": "images/song-thrush.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/song-thrush.jpg"
     },
     {
       "id": 142,
@@ -1142,7 +1142,7 @@
       "biome": "Forest & woodlands",
       "videoId": "l8DUQc3lHW0",
       "favorite": false,
-      "image": "images/clarks-nutcracker.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/clarks-nutcracker.jpg"
     },
     {
       "id": 143,
@@ -1150,7 +1150,7 @@
       "biome": "Forest & woodlands",
       "videoId": "nCYkd0JhNCg",
       "favorite": false,
-      "image": "images/european-goldfinch.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-goldfinch.jpg"
     },
     {
       "id": 144,
@@ -1158,7 +1158,7 @@
       "biome": "Forest & woodlands",
       "videoId": "7W7hEUGtv4U",
       "favorite": false,
-      "image": "images/kea.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/kea.jpg"
     },
     {
       "id": 145,
@@ -1166,7 +1166,7 @@
       "biome": "Forest & woodlands",
       "videoId": "c2Y5ngh1bHk",
       "favorite": false,
-      "image": "images/sharp-shinned-hawk.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/sharp-shinned-hawk.jpg"
     },
     {
       "id": 146,
@@ -1174,7 +1174,7 @@
       "biome": "Forest & woodlands",
       "videoId": "xQYgQWbgfvk",
       "favorite": false,
-      "image": "images/mockingbird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/mockingbird.jpg"
     },
     {
       "id": 147,
@@ -1182,7 +1182,7 @@
       "biome": "Farm birds",
       "videoId": "_ydAi9tg0RE",
       "favorite": false,
-      "image": "images/silver-campine-rooster.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/silver-campine-rooster.jpg"
     },
     {
       "id": 148,
@@ -1190,7 +1190,7 @@
       "biome": "Farm birds",
       "videoId": "GBEMAUMpBfs",
       "favorite": false,
-      "image": "images/rouen-duck.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/rouen-duck.jpg"
     },
     {
       "id": 149,
@@ -1198,7 +1198,7 @@
       "biome": "Farm birds",
       "videoId": "UKNHIiGM1II",
       "favorite": false,
-      "image": "images/embden-goose.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/embden-goose.jpg"
     },
     {
       "id": 150,
@@ -1206,7 +1206,7 @@
       "biome": "Farm birds",
       "videoId": "7N3iy952szQ",
       "favorite": false,
-      "image": "images/indian-game-hen.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/indian-game-hen.jpg"
     },
     {
       "id": 151,
@@ -1214,7 +1214,7 @@
       "biome": "Farm birds",
       "videoId": "ohqEquNnzfU",
       "favorite": false,
-      "image": "images/barn-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/barn-owl.jpg"
     },
     {
       "id": 152,
@@ -1222,7 +1222,7 @@
       "biome": "Farm birds",
       "videoId": "0HiP7cC1OjU",
       "favorite": false,
-      "image": "images/bourbon-red-turkey.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bourbon-red-turkey.jpg"
     },
     {
       "id": 153,
@@ -1230,7 +1230,7 @@
       "biome": "Farm birds",
       "videoId": "QoF15fMBWyI",
       "favorite": false,
-      "image": "images/bronze-turkey.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bronze-turkey.jpg"
     },
     {
       "id": 154,
@@ -1238,7 +1238,7 @@
       "biome": "Farm birds",
       "videoId": "eVa1-uBKjyA",
       "favorite": false,
-      "image": "images/yokohama-rooster.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/yokohama-rooster.jpg"
     },
     {
       "id": 155,
@@ -1246,7 +1246,7 @@
       "biome": "Farm birds",
       "videoId": "QwC-Xb4Sa5I",
       "favorite": false,
-      "image": "images/welsummer-rooster.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/welsummer-rooster.jpg"
     },
     {
       "id": 156,
@@ -1254,7 +1254,7 @@
       "biome": "Farm birds",
       "videoId": "J-3SihINBSY",
       "favorite": false,
-      "image": "images/white-leghorn-rooster.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/white-leghorn-rooster.jpg"
     },
     {
       "id": 157,
@@ -1262,7 +1262,7 @@
       "biome": "Farm birds",
       "videoId": "46zlIdR4DA4",
       "favorite": false,
-      "image": "images/silkie-hen.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/silkie-hen.jpg"
     },
     {
       "id": 158,
@@ -1270,7 +1270,7 @@
       "biome": "Farm birds",
       "videoId": "KBPL-vZzayQ",
       "favorite": false,
-      "image": "images/gray-partridge.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gray-partridge.jpg"
     },
     {
       "id": 159,
@@ -1278,7 +1278,7 @@
       "biome": "Pet birds",
       "videoId": "cUpGRQK7o78",
       "favorite": false,
-      "image": "images/budgerigar.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/budgerigar.jpg"
     },
     {
       "id": 160,
@@ -1286,7 +1286,7 @@
       "biome": "Pet birds",
       "videoId": "_riHnZt21gs",
       "favorite": false,
-      "image": "images/peach-faced-lovebird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/peach-faced-lovebird.jpg"
     },
     {
       "id": 161,
@@ -1294,7 +1294,7 @@
       "biome": "Pet birds",
       "videoId": "BvbCPyQogho",
       "favorite": false,
-      "image": "images/indian-ring-necked-parakeet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/indian-ring-necked-parakeet.jpg"
     },
     {
       "id": 162,
@@ -1302,7 +1302,7 @@
       "biome": "Pet birds",
       "videoId": "unDmG03XVHM",
       "favorite": false,
-      "image": "images/yellow-collared-lovebird.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/yellow-collared-lovebird.jpg"
     },
     {
       "id": 163,
@@ -1310,7 +1310,7 @@
       "biome": "Pet birds",
       "videoId": "UU9KtEO_tKs",
       "favorite": false,
-      "image": "images/splendid-grass-parakeet.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/splendid-grass-parakeet.jpg"
     },
     {
       "id": 164,
@@ -1318,7 +1318,7 @@
       "biome": "Pet birds",
       "videoId": "K8ItKoIAdU4",
       "favorite": false,
-      "image": "images/gouldian-finch.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/gouldian-finch.jpg"
     },
     {
       "id": 165,
@@ -1326,7 +1326,7 @@
       "biome": "Pet birds",
       "videoId": "mBTI2P7FwlA",
       "favorite": false,
-      "image": "images/canary.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/canary.jpg"
     },
     {
       "id": 166,
@@ -1334,7 +1334,7 @@
       "biome": "Pet birds",
       "videoId": "iR-Dr8H11fI",
       "favorite": false,
-      "image": "images/palm-cockatoo.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/palm-cockatoo.jpg"
     },
     {
       "id": 167,
@@ -1342,7 +1342,7 @@
       "biome": "Pet birds",
       "videoId": "LqoQkArsFDY",
       "favorite": false,
-      "image": "images/cockatiel.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/cockatiel.jpg"
     },
     {
       "id": 168,
@@ -1350,7 +1350,7 @@
       "biome": "Pet birds",
       "videoId": "K3CenN7d30Y",
       "favorite": false,
-      "image": "images/rooster.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/rooster.jpg"
     },
     {
       "id": 169,
@@ -1358,7 +1358,7 @@
       "biome": "Pet birds",
       "videoId": "NblypU-gH0o",
       "favorite": false,
-      "image": "images/chick.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/chick.jpg"
     },
     {
       "id": 170,
@@ -1366,7 +1366,7 @@
       "biome": "Pet birds",
       "videoId": "MLvNaljgwdE",
       "favorite": false,
-      "image": "images/hen.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/hen.jpg"
     },
     {
       "id": 171,
@@ -1374,7 +1374,7 @@
       "biome": "Birds of prey",
       "videoId": "ygKJxBea6ig",
       "favorite": false,
-      "image": "images/falcon.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/falcon.jpg"
     },
     {
       "id": 172,
@@ -1382,7 +1382,7 @@
       "biome": "Birds of prey",
       "videoId": "54HJdMHZpgs",
       "favorite": false,
-      "image": "images/kestrel.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/kestrel.jpg"
     },
     {
       "id": 173,
@@ -1390,7 +1390,7 @@
       "biome": "Birds of prey",
       "videoId": "gLD7OFjgPUk",
       "favorite": false,
-      "image": "images/condor.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/condor.jpg"
     },
     {
       "id": 174,
@@ -1398,7 +1398,7 @@
       "biome": "Birds of prey",
       "videoId": "3sB_-cBAUZ8",
       "favorite": false,
-      "image": "images/red-kite.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/red-kite.jpg"
     },
     {
       "id": 175,
@@ -1406,7 +1406,7 @@
       "biome": "Birds of prey",
       "videoId": "FZ_chD2mUV8",
       "favorite": true,
-      "image": "images/bald-eagle.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/bald-eagle.jpg"
     },
     {
       "id": 176,
@@ -1414,7 +1414,7 @@
       "biome": "Birds of prey",
       "videoId": "DkzF5UjZNX0",
       "favorite": false,
-      "image": "images/osprey.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/osprey.jpg"
     },
     {
       "id": 177,
@@ -1422,7 +1422,7 @@
       "biome": "Birds of prey",
       "videoId": "VRy9V7LGTXA",
       "favorite": false,
-      "image": "images/merlin.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/merlin.jpg"
     },
     {
       "id": 178,
@@ -1430,7 +1430,7 @@
       "biome": "Night birds",
       "videoId": "7wepVbSeprE",
       "favorite": false,
-      "image": "images/burrowing-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/burrowing-owl.jpg"
     },
     {
       "id": 179,
@@ -1438,7 +1438,7 @@
       "biome": "Night birds",
       "videoId": "bt3X8MJgJWo",
       "favorite": false,
-      "image": "images/great-horned-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/great-horned-owl.jpg"
     },
     {
       "id": 180,
@@ -1446,7 +1446,7 @@
       "biome": "Night birds",
       "videoId": "XqDL-HzrfA4",
       "favorite": false,
-      "image": "images/nighthawk.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/nighthawk.jpg"
     },
     {
       "id": 181,
@@ -1454,7 +1454,7 @@
       "biome": "Night birds",
       "videoId": "ifXMpuNk9RA",
       "favorite": false,
-      "image": "images/spotted-owl.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/spotted-owl.jpg"
     },
     {
       "id": 182,
@@ -1462,7 +1462,7 @@
       "biome": "Night birds",
       "videoId": "0zbgICX9oyo",
       "favorite": false,
-      "image": "images/european-nightjar.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/european-nightjar.jpg"
     },
     {
       "id": 183,
@@ -1470,7 +1470,7 @@
       "biome": "Night birds",
       "videoId": "opxLvlh6p4M",
       "favorite": false,
-      "image": "images/owlet-nightjar.jpg"
+      "image": "https://199-birds.s3.us-east-2.amazonaws.com/images/owlet-nightjar.jpg"
     }
   ]
 }
